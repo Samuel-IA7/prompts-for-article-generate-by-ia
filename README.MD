@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/Printartigopublicado.png"
+    src=".github/assets/Print artigo publicado.png"
     width="400"  
   />
 </p>
